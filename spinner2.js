@@ -6,5 +6,3 @@ for (const char of clock) {
     process.stdout.write(`\r${char}`);
   }, delay += 200);
 }
-
-// ... fill in the rest yourself ...;
